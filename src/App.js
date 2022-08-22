@@ -142,7 +142,7 @@ function App() {
       }
       else {
         return (
-          <b>aca va mas data</b>
+          <b>Seleccione una empresa</b>
         );
       }
     }
